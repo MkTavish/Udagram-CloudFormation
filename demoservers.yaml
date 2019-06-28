@@ -66,7 +66,6 @@ Resources:
           cd /var/www/html
           sudo echo "Wola Adedeji's Udagram Project is Live" > index.html
       ImageId: ami-005bdb005fb00e791
-      KeyName: mykey
       SecurityGroups:
       - Ref: WebserverSecGroup
       InstanceType: t3.small
