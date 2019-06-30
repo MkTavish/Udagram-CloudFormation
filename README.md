@@ -1,5 +1,5 @@
-#  **Cloud Formation Template for
-Creating an AWS infrastructure with Cloud Formation**
+#  Cloud Formation Template
+## Creating an AWS infrastructure with Cloud Formation
 
 ## **Prerequisites**
  - Create an AWS account.
