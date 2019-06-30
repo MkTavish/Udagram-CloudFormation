@@ -1,4 +1,4 @@
-Cloud Formation Template
+Cloud Formation Template for
 Creating an AWS infrastructure with Cloud Formation
 
 Prerequisites
