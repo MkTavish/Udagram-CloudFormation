@@ -1,7 +1,8 @@
 #  Cloud Formation Template
 ## Creating an AWS infrastructure with Cloud Formation
 
-https://github.com/MkTavish/Udagram-CloudFormation/blob/master/Web%20Architecture1.pdf
+http://github.com - automatic!
+[GitHub](https://github.com/MkTavish/Udagram-CloudFormation/blob/master/Web%20Architecture1.pdf)
 
 ## **Prerequisites**
  - Create an AWS account.
