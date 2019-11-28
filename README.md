@@ -1,6 +1,8 @@
 #  Cloud Formation Template
 ## Creating an AWS infrastructure with Cloud Formation
 
+Web Architecture1.pdf
+
 ## **Prerequisites**
  - Create an AWS account.
  - Make sure you're signed into AWS as an IAM user with admin access. Do not sign in via the root account.
